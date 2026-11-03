@@ -1,0 +1,17 @@
+# Requirements for Phishing URL Detection System
+#
+# Python version: 3.8 or later
+#
+# This project uses only Python standard-library modules:
+# - urllib.parse
+# - ipaddress
+#
+# No third-party packages are required.
+#
+# To check your Python version:
+#     python --version
+#
+# To run the project:
+#     python phishing_detector.py
+#
+# If you use a virtual environment, activate it before running the program.
